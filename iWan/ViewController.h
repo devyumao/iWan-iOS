@@ -10,11 +10,8 @@
 
 @interface ViewController : UIViewController {
     IBOutlet UIWebView *iWebView;
-    IBOutlet UIButton *backBtn;
-    
-    NSString *HOME_URL;
-    NSString *SHARE_TITLE;
-    NSString *SHARE_TEXT;
+    IBOutlet UINavigationBar *navigationBar;
+    IBOutlet UIBarButtonItem *moreBtn;
 }
 
 @end

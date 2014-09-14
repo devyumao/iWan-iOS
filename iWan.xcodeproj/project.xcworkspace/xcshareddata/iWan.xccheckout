@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>022618DA-4244-41E0-8182-1E53ED5460D5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iWan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF6A73BA-D911-47D3-B663-FFC3DB846579</key>
+		<string>https://github.com/yumaoywj/iWan-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iWan.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF6A73BA-D911-47D3-B663-FFC3DB846579</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yumaoywj/iWan-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF6A73BA-D911-47D3-B663-FFC3DB846579</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF6A73BA-D911-47D3-B663-FFC3DB846579</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iWan-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

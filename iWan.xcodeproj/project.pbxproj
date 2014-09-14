@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E6B7561719C561E7009C3EE2 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7561619C561E7009C3EE2 /* logo.png */; };
+		E6B7562119C570D3009C3EE2 /* KxMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = E6B7562019C570D3009C3EE2 /* KxMenu.m */; };
+		E6B7562E19C5B634009C3EE2 /* arrow-left.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562819C5B634009C3EE2 /* arrow-left.png */; };
+		E6B7562F19C5B634009C3EE2 /* arrow-left@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562919C5B634009C3EE2 /* arrow-left@2x.png */; };
+		E6B7563019C5B634009C3EE2 /* refresh.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562A19C5B634009C3EE2 /* refresh.png */; };
+		E6B7563119C5B634009C3EE2 /* refresh@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562B19C5B634009C3EE2 /* refresh@2x.png */; };
+		E6B7563219C5B634009C3EE2 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562C19C5B634009C3EE2 /* share.png */; };
+		E6B7563319C5B634009C3EE2 /* share@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7562D19C5B634009C3EE2 /* share@2x.png */; };
+		E6B7563519C5C21E009C3EE2 /* home-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B7563419C5C21E009C3EE2 /* home-icon.png */; };
 		E6E0F2F419BF354900C1F29A /* UMSocialLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E6E0F2DA19BF354900C1F29A /* UMSocialLocalizable.strings */; };
 		E6E0F2F519BF354900C1F29A /* libUMSocial_Sdk_4.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6E0F2E819BF354900C1F29A /* libUMSocial_Sdk_4.1.a */; };
 		E6E0F2F619BF354900C1F29A /* UMSCommentDetailController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E6E0F2EA19BF354900C1F29A /* UMSCommentDetailController.xib */; };
@@ -21,7 +30,6 @@
 		E6E0F30719BF355700C1F29A /* libSocialSina.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6E0F30119BF355700C1F29A /* libSocialSina.a */; };
 		E6E0F30819BF355700C1F29A /* libSocialWechat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6E0F30419BF355700C1F29A /* libSocialWechat.a */; };
 		E6E0F30919BF355700C1F29A /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E6E0F30519BF355700C1F29A /* libWeChatSDK.a */; };
-		E6E0F30D19BF4AD000C1F29A /* img in Resources */ = {isa = PBXBuildFile; fileRef = E6E0F30C19BF4AD000C1F29A /* img */; };
 		E6F9263919A89BA400D6F00C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6F9263819A89BA400D6F00C /* Foundation.framework */; };
 		E6F9263B19A89BA400D6F00C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6F9263A19A89BA400D6F00C /* CoreGraphics.framework */; };
 		E6F9263D19A89BA400D6F00C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6F9263C19A89BA400D6F00C /* UIKit.framework */; };
@@ -49,6 +57,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E6B7561619C561E7009C3EE2 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		E6B7561F19C570CA009C3EE2 /* KxMenu.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = KxMenu.h; path = ../../../Downloads/kxmenu/Source/KxMenu.h; sourceTree = "<group>"; };
+		E6B7562019C570D3009C3EE2 /* KxMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KxMenu.m; path = ../../../Downloads/kxmenu/Source/KxMenu.m; sourceTree = "<group>"; };
+		E6B7562819C5B634009C3EE2 /* arrow-left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-left.png"; sourceTree = "<group>"; };
+		E6B7562919C5B634009C3EE2 /* arrow-left@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "arrow-left@2x.png"; sourceTree = "<group>"; };
+		E6B7562A19C5B634009C3EE2 /* refresh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = refresh.png; sourceTree = "<group>"; };
+		E6B7562B19C5B634009C3EE2 /* refresh@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "refresh@2x.png"; sourceTree = "<group>"; };
+		E6B7562C19C5B634009C3EE2 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		E6B7562D19C5B634009C3EE2 /* share@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "share@2x.png"; sourceTree = "<group>"; };
+		E6B7563419C5C21E009C3EE2 /* home-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-icon.png"; sourceTree = "<group>"; };
 		E6E0F2D619BD97E400C1F29A /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		E6E0F2D819BD97EE00C1F29A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		E6E0F2DB19BF354900C1F29A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/UMSocialLocalizable.strings; sourceTree = "<group>"; };
@@ -79,7 +97,6 @@
 		E6E0F30419BF355700C1F29A /* libSocialWechat.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libSocialWechat.a; sourceTree = "<group>"; };
 		E6E0F30519BF355700C1F29A /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
 		E6E0F30619BF355700C1F29A /* UMSocialWechatHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UMSocialWechatHandler.h; sourceTree = "<group>"; };
-		E6E0F30C19BF4AD000C1F29A /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
 		E6F9263519A89BA400D6F00C /* iWan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iWan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6F9263819A89BA400D6F00C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E6F9263A19A89BA400D6F00C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -129,6 +146,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E6B7561E19C57092009C3EE2 /* kxMenu */ = {
+			isa = PBXGroup;
+			children = (
+				E6B7562019C570D3009C3EE2 /* KxMenu.m */,
+				E6B7561F19C570CA009C3EE2 /* KxMenu.h */,
+			);
+			name = kxMenu;
+			sourceTree = "<group>";
+		};
 		E6E0F2D919BF354900C1F29A /* UMSocial_Sdk_4.1 */ = {
 			isa = PBXGroup;
 			children = (
@@ -205,6 +231,7 @@
 		E6F9262C19A89BA400D6F00C = {
 			isa = PBXGroup;
 			children = (
+				E6B7561E19C57092009C3EE2 /* kxMenu */,
 				E6E0F2FF19BF355700C1F29A /* UMSocial_Sdk_Extra_Frameworks */,
 				E6E0F2D919BF354900C1F29A /* UMSocial_Sdk_4.1 */,
 				E6F9263E19A89BA400D6F00C /* iWan */,
@@ -237,7 +264,6 @@
 		E6F9263E19A89BA400D6F00C /* iWan */ = {
 			isa = PBXGroup;
 			children = (
-				E6E0F30C19BF4AD000C1F29A /* img */,
 				E6F9264719A89BA400D6F00C /* AppDelegate.h */,
 				E6F9264819A89BA400D6F00C /* AppDelegate.m */,
 				E6F9264A19A89BA400D6F00C /* Main.storyboard */,
@@ -252,6 +278,14 @@
 		E6F9263F19A89BA400D6F00C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E6B7563419C5C21E009C3EE2 /* home-icon.png */,
+				E6B7562819C5B634009C3EE2 /* arrow-left.png */,
+				E6B7562919C5B634009C3EE2 /* arrow-left@2x.png */,
+				E6B7562A19C5B634009C3EE2 /* refresh.png */,
+				E6B7562B19C5B634009C3EE2 /* refresh@2x.png */,
+				E6B7562C19C5B634009C3EE2 /* share.png */,
+				E6B7562D19C5B634009C3EE2 /* share@2x.png */,
+				E6B7561619C561E7009C3EE2 /* logo.png */,
 				E6F9264019A89BA400D6F00C /* iWan-Info.plist */,
 				E6F9264119A89BA400D6F00C /* InfoPlist.strings */,
 				E6F9264419A89BA400D6F00C /* main.m */,
@@ -360,15 +394,22 @@
 			files = (
 				E6E0F2FA19BF354900C1F29A /* UMShareEditViewControlleriPad.xib in Resources */,
 				E6E0F2FC19BF354900C1F29A /* UMSnsAccountViewController.xib in Resources */,
-				E6E0F30D19BF4AD000C1F29A /* img in Resources */,
+				E6B7563119C5B634009C3EE2 /* refresh@2x.png in Resources */,
 				E6E0F2F719BF354900C1F29A /* UMSCommentInputController.xib in Resources */,
 				E6E0F2F619BF354900C1F29A /* UMSCommentDetailController.xib in Resources */,
+				E6B7563319C5B634009C3EE2 /* share@2x.png in Resources */,
+				E6B7562E19C5B634009C3EE2 /* arrow-left.png in Resources */,
 				E6F9265119A89BA400D6F00C /* Images.xcassets in Resources */,
+				E6B7563219C5B634009C3EE2 /* share.png in Resources */,
+				E6B7562F19C5B634009C3EE2 /* arrow-left@2x.png in Resources */,
+				E6B7563519C5C21E009C3EE2 /* home-icon.png in Resources */,
+				E6B7563019C5B634009C3EE2 /* refresh.png in Resources */,
 				E6F9264319A89BA400D6F00C /* InfoPlist.strings in Resources */,
 				E6E0F2FE19BF354900C1F29A /* UMSocialSDKResourcesNew.bundle in Resources */,
 				E6E0F2F819BF354900C1F29A /* UMSCommentInputControlleriPad.xib in Resources */,
 				E6E0F2F919BF354900C1F29A /* UMShareEditViewController.xib in Resources */,
 				E6E0F2FD19BF354900C1F29A /* UMSShareListController.xib in Resources */,
+				E6B7561719C561E7009C3EE2 /* logo.png in Resources */,
 				E6E0F2F419BF354900C1F29A /* UMSocialLocalizable.strings in Resources */,
 				E6F9264C19A89BA400D6F00C /* Main.storyboard in Resources */,
 				E6E0F2FB19BF354900C1F29A /* UMSLoginViewController.xib in Resources */,
@@ -393,6 +434,7 @@
 				E6F9264F19A89BA400D6F00C /* ViewController.m in Sources */,
 				E6F9264919A89BA400D6F00C /* AppDelegate.m in Sources */,
 				E6F9264519A89BA400D6F00C /* main.m in Sources */,
+				E6B7562119C570D3009C3EE2 /* KxMenu.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
